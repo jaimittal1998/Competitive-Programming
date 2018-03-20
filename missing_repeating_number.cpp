@@ -1,3 +1,6 @@
+/*Given an unsorted array of size n. Array elements are in range from 1 to n. 
+One number from set {1, 2, …n} is missing and one number occurs twice in array. 
+Find these two numbers.*/
 #include<bits/stdc++.h>
 using namespace std;
 void traverseArray(int arr[],int N)

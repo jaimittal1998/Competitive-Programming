@@ -30,8 +30,8 @@ void sortandCal(int arr[], int n)
 }
 int main()
 {
-	ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
+		ios_base::sync_with_stdio(false);
+	    cin.tie(NULL);
     unsigned int N;
     repeat:
     	cin>>N;
